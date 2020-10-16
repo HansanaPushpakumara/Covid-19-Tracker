@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Covid 19 Tracker SL</string>
+    <string name="active">ප්‍රතිකාර ලබන රෝගීන්</string>
+    <string name="total">තහවුරු වූ රෝගීන්</string>
+    <string name="recovered">සුව වූ රෝගීන්</string>
+    <string name="deaths">මරණ</string>
+    <string name="title">ශ්‍රී ලංකාව තුල Covid-19 ව්‍යාප්තිය</string>
+    <string name="button">බලන්න</string>
+    <string name="splashText">නිවසට වී සිටිමු\n\nනිසි සෞඛ්‍යය උපදෙස් පිළිපදිමු \n\nකොරෝනා පරදවමු
+    </string>
+    <string name="splashtitle">Corona Outbreak in Sri Lanka</string>
+    <string name="copyrighttext">Developed by Hansana Pushpakumara</string>
+    <string name="internetmsg">අන්තර් ජාලයට සම්බන්ධ කරන්න..</string>
+    <string name="titleW">ගෝලීය ව්‍යාප්තිය</string>
+    <string name="Worldnewcases">නව ආසාධිතයන්</string>
+    <string name="resourcetext">තොරතුරු මූලාශ්‍ර \n\n සෞඛ්‍යය ප්‍රවර්ධන කාර්යංශය</string>
+    <string name="copyrighttextMain">Developed by Hansana Pushpakumara \n (<i>hansanapushpakumara@gmail.com</i>)</string>
+</resources>
